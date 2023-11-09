@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "F:\os_academy_labs\pid_lab_1/daming_change.hex"
+avrdude: writing flash (24204 bytes):
+avrdude: 24204 bytes of flash written
+
+avrdude done.  Thank you.
+

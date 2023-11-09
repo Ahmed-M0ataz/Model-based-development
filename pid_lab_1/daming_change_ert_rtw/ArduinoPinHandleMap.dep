@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ F:/os_academy_labs/pid_lab_1/daming_change_ert_rtw/rtwtypes.h
+
+F:/os_academy_labs/pid_lab_1/daming_change_ert_rtw/rtwtypes.h:
